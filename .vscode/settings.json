@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "src/atividade01/ex03",
+        "src/atividade01/ex02",
+        "src/atividade01/ex01",
+        "src/atividade01/ex04"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
